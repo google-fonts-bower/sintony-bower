@@ -1,0 +1,17 @@
+{
+    "name": "sintony-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Rodriguez Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/sintony-bower.git"
+    },
+    "description": "Sintony font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
